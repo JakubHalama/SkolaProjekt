@@ -1,0 +1,28 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: #040aaa;
+    text-align: center;
+    color: white;
+    
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px; 
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(163, 181, 255);
+}
